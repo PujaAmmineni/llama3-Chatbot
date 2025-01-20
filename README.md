@@ -2,6 +2,8 @@
 
 This project implements a chatbot using the **Llama3** language model integrated with **Ollama**. Built with Python, Flask, and LangChain, it delivers AI-powered conversational capabilities with a user-friendly interface.
 
+https://github.com/PujaAmmineni/llama3-Chatbot/blob/64bed0e2d727b05ec86613badac04b3e206a12d6/Screenshot%20(1289).png
+
 ---
 
 ## Features
@@ -42,12 +44,12 @@ source venv/bin/activate    # On macOS/Linux
 venv\Scripts\activate       # On Windows
 ---
 ollama pull llama3
----![Screenshot (1289)](https://github.com/user-attachments/assets/2a9f68ff-6881-4224-ac5a-42837e87d111)
+---
 
 ##  Running the Application
 python app.py
 
-![Uploading Screenshot (1289).png…]()
+!
 
 
 
